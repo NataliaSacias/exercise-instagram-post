@@ -1,0 +1,18 @@
+.contenedor{
+    width: 65%;
+    border: solid 1px #000;
+    margin: 0 auto;
+   
+}
+.titulo{
+    display:flex;
+     justify-content: space-evenly;
+     align-items:center;
+     background-color: red;
+     height: 10%;
+     margin:0;
+}
+.imagen, img{
+    width:100%;
+    
+}
